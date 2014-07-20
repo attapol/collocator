@@ -1,0 +1,4 @@
+collocator
+==========
+
+Computational Lexical Collocator
